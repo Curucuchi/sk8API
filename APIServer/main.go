@@ -67,5 +67,5 @@ func addTricks(w http.ResponseWriter, r *http.Request) {
 }
 
 func deleteTricks(w http.ResponseWriter, r *http.Request) {
-
+	//testing changes
 }
